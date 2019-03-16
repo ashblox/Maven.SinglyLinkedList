@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a6f7bd1-be53-466d-8e27-d36bbf7c5484" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/MainApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedListTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/MainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="315">
+              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
                 <element signature="e#277#285#0" expanded="true" />
               </folding>
@@ -38,21 +29,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            <state relative-caret-position="167">
+              <caret line="56" column="38" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="215">
+              <caret line="117" column="6" selection-start-line="117" selection-start-column="6" selection-end-line="122" selection-end-column="7" />
               <folding>
-                <element signature="e#1892#1893#0" expanded="true" />
-                <element signature="e#1938#1939#0" expanded="true" />
-                <element signature="e#1965#1966#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#2864#2865#0" expanded="true" />
+                <element signature="e#2923#2924#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,6 +78,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Iterator</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -89,8 +92,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/Node.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/NodeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedListTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/MainApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -171,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552756192553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552758875444" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -284,7 +287,7 @@
       <updated>1552662800948</updated>
       <workItem from="1552662802675" duration="5380000" />
       <workItem from="1552682051405" duration="86000" />
-      <workItem from="1552752105414" duration="3816000" />
+      <workItem from="1552752105414" duration="5826000" />
     </task>
     <servers />
   </component>
@@ -312,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9282000" />
+    <option name="totallyTimeSpent" value="11292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-307" y="-1033" width="1844" height="965" extended-state="0" />
@@ -356,13 +359,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/Node.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/NodeTest.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -374,24 +370,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding>
-            <element signature="e#1892#1893#0" expanded="true" />
-            <element signature="e#1938#1939#0" expanded="true" />
-            <element signature="e#1965#1966#0" expanded="true" />
+            <element signature="e#277#285#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/MainApplication.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="167">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zipcodewilmington/singlylinkedlist/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="117" column="6" selection-start-line="117" selection-start-column="6" selection-end-line="122" selection-end-column="7" />
           <folding>
-            <element signature="e#277#285#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#2864#2865#0" expanded="true" />
+            <element signature="e#2923#2924#0" expanded="true" />
           </folding>
         </state>
       </provider>

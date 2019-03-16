@@ -20,9 +20,11 @@ public class MainApplication {
         sll.add(s3);
         sll.add(s4);
 
-        System.out.println(sll.getHead());
-        System.out.println(sll.remove(5));
-        System.out.println(sll.getHead());
+        System.out.println(sll.contains("hi"));
+
+//        System.out.println(sll.getHead());
+//        System.out.println(sll.remove(5));
+//        System.out.println(sll.getHead());
 
     }
 }
